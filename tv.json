@@ -120,8 +120,8 @@
     {
       "key": "xiaoji",
       "name": "小鸡资源",
-      "type": 1,
-      "api": "https://api.xjzyapi.xyz/provide/vod",
+      "type": 0,
+      "api": "https://api.xjzyapi.xyz/provide/vod?at=xml&ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -131,6 +131,114 @@
       "name": "jkun资源",
       "type": 1,
       "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "senlin",
+      "name": "森林资源",
+      "type": 1,
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sayu",
+      "name": "鲨鱼资源",
+      "type": 1,
+      "api": "https://shayuapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xin",
+      "name": "幸资源",
+      "type": 0,
+      "api": "https://xzybb2.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dodo",
+      "name": "豆豆资源",
+      "type": 1,
+      "api": "https://api.douapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "didi",
+      "name": "滴滴资源",
+      "type": 1,
+      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "heliu",
+      "name": "黑料资源",
+      "type": 1,
+      "api": "https://heiliaozyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "baiwan",
+      "name": "百万资源",
+      "type": 0,
+      "api": "https://api.bwzyz.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "taohua",
+      "name": "桃花资源",
+      "type": 0,
+      "api": "https://thzy1.me/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ckzy",
+      "name": "ckzy",
+      "type": 1,
+      "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "xiangjiao",
+      "name": "香蕉资源",
+      "type": 0,
+      "api": "https://www.xiangjiaozyw.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dadi",
+      "name": "大地资源",
+      "type": 0,
+      "api": "https://dadiapi.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "semao",
+      "name": "色猫资源",
+      "type": 0,
+      "api": "https://caiji.semaozy.net/inc/api.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
